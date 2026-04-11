@@ -17,7 +17,8 @@
 <a href = "https://github.com/tamjid-ca">
 <img src = "https://img.shields.io/badge/Website-My%20Portfolio-red" width="200" height="35">
 </a>
-<hr>
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
@@ -69,6 +70,29 @@
 
 </p>
 
+
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<!-- Github Analytics -->
+<p align="center">
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> &nbsp;<p style="font-size: 24px; font-weight: bold;" align="center">***Github Analytics***</p>
+
+
+<img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tamjid-ca&theme=moltack"  />
+<img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tamjid-ca&theme=moltack"  />
+</p>
+
+
+<p align ="center">
+<a href="https://github.com/tamjid-ca">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tamjid-ca&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tamjid-ca&layout=compact&langs_count=8&theme=algolia"/>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
+</a>
+</p>
 
 
 
