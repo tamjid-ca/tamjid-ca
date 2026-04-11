@@ -10,7 +10,7 @@
 
 <!-- resume link -->
 <a href = "https://github.com/tamjid-ca">
-<img src = "https://img.shields.io/badge/My%20CV-%40Farzine-blue" width="200" height="35">
+<img src = "https://img.shields.io/badge/My%20CV-%40Tamjid-blue" width="200" height="35">
 </a>
 
 <!-- website link -->
