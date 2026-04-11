@@ -17,7 +17,7 @@
 <a href = "https://github.com/tamjid-ca">
 <img src = "https://img.shields.io/badge/Website-My%20Portfolio-red" width="200" height="35">
 </a>
-<br/>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
@@ -47,7 +47,6 @@
 
 ![Top Language](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tamjid-ca&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&count_private=true)
 
-<br/>
 
 
 <!-- Technology Stack -->
@@ -70,8 +69,6 @@
 
 </p>
 
-
-<br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
@@ -94,17 +91,39 @@
 </a>
 </p>
 
-<br>
+
  <img alt="Mark streak" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tamjid-ca&layout=compact&langs_count=8&theme=algolia" /> 
- <br> 
+
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
 <!-- Contact info -->
+<div align="center">
+
+## 📞 Connect with me
+<p align="center">
+<a href="mailto:mdtamjidhossain.ca@gmail.com?subject=Want%20to%20contact%20you%20from%20github"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"/></a>
+<a href="https://www.facebook.com/[your link]"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="42" height="30" alt="facebook logo"  /></a>
+<a href="https://www.linkedin.com/in/[your link]"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  /></a>
+
+</p>
+</div>
 
 
+<!-- Profile visitor stat -->
+<div align="center">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/tamjid-ca"> <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/tamjid-ca">
+</div>
+
+
+<br>
+<br>
+
+[MD. Tamjid Hossen](https://github.com/tamjid-ca)
+
+Last Edited on: 12/4/2026
 
 </div>
 
