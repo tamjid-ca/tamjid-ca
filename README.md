@@ -40,5 +40,23 @@
 
 </p>
 
+
+<!-- Github Overview -->
+<p style="font-size: 24px; font-weight: bold" align = "center">📈 Github Overview</p>
+
+![Top Language](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tamjid-ca&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&count_private=true)
+
+<br/>
+
+
+
+
+<!-- Technology Stack -->
+
+
+
+
+
+
 </div>
 
