@@ -94,6 +94,16 @@
 </a>
 </p>
 
+<br>
+ <img alt="Mark streak" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tamjid-ca&layout=compact&langs_count=8&theme=algolia" /> 
+ <br> 
+ 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
+<!-- Contact info -->
+
 
 
 </div>
