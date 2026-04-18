@@ -14,7 +14,7 @@
 </a>
 
 <!-- website link -->
-<a href = "https://github.com/tamjid-ca">
+<a href = "https://tamjid-portfolio.vercel.app">
 <img src = "https://img.shields.io/badge/Website-My%20Portfolio-red" width="200" height="35">
 </a>
 
